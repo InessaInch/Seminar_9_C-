@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\bin\Debug\net6.0\Work64.exe
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\bin\Debug\net6.0\Work64.deps.json
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\bin\Debug\net6.0\Work64.runtimeconfig.json
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\bin\Debug\net6.0\Work64.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\bin\Debug\net6.0\Work64.pdb
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\refint\Work64.dll
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.pdb
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\Work64.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Учеба\Домашние работы\С#\Семинар 9\Seminar_9\Work64\obj\Debug\net6.0\ref\Work64.dll
